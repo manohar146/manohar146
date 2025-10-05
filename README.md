@@ -21,12 +21,12 @@ I'm a builder at heart—whether it's wiring up sensors, debugging microcontroll
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🧮 [Calculator1](https://github.com/manohar146/calculator1) | OLED-based calculator with ESP32 | C++, Arduino |
-| 🎲 [Dice Roller](https://github.com/manohar146/DICE-ROLLER) | Simulates dice roll on OLED | C++, Arduino |
-| 📡 [DIY Radar System](https://github.com/manohar146/DIY-RADAR-SYSTEM-ESP32) | Ultrasonic radar with live display | C++, Arduino |
-| 🔥 [Fire Alarm System](https://github.com/manohar146/FIRE-ALARM-SYSTEM) | Flame sensor triggers alarm | C++, Arduino |
-| 🧪 [Gas Monitoring System](https://github.com/manohar146/GAS-MONITORING-SYSTEM-ESP32) | Detects gas levels and displays data | C++, Arduino |
-| 🎮 [Game ESP32](https://github.com/manohar146/GAME-ESP32) | Button-controlled OLED game | C++, Arduino |
+| 🧮 [Calculator1](https://github.com/manohar146/csalculater1) | OLED-based calculator with ESP32 | C++, Arduino |
+| 🎲 [Dice Roller](https://github.com/manohar146/DICE_ROLER) | Simulates dice roll on OLED | C++, Arduino |
+| 📡 [DIY Radar System](https://github.com/manohar146/DIY_RADAR_SYSTEM_ESP32) | Ultrasonic radar with live display | C++, Arduino |
+| 🔥 [Fire Alarm System](https://github.com/manohar146/FIRE_ALARM_SYSTEM) | Flame sensor triggers alarm | C++, Arduino |
+| 🧪 [Gas Monitoring System](https://github.com/manohar146/GAS_MONITORING_SYSTEM_ESP32) | Detects gas levels and displays data | C++, Arduino |
+| 🎮 [Game ESP32](https://github.com/manohar146/GAME_ESP32) | Button-controlled OLED game | C++, Arduino |
 
 ---
 
