@@ -2,7 +2,7 @@
 
 🎓 **Electronics & Communication Engineer** | 🔧 **Embedded Systems & VLSI Enthusiast**  
 📍 Bengaluru, India | 📬 [naikmanohar152@gmail.com](mailto:naikmanohar152@gmail.com)  
-🌐 [My Portfolio Website](https://manoharnaik146.github.io)
+🌐 [My Portfolio Website](https://manohar146.github.io/manoharnaik146.github.io/)
 
 ---
 
