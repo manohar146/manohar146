@@ -1,7 +1,7 @@
 ## 👋 Hello, I'm M Manohar Naik
 
 🎓 **Electronics & Communication Engineer** | 🔧 **Embedded Systems & VLSI Enthusiast**  
-📍 Bengaluru, India | 📬 [manohar.naik23@gmail.com](mailto:manohar.naik23@gmail.com)  
+📍 Bengaluru, India | 📬 [naikmanohar152@gmail.com](mailto:naikmanohar152@gmail.com)  
 🌐 [My Portfolio Website](https://manoharnaik146.github.io)
 
 ---
